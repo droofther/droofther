@@ -1,9 +1,8 @@
 <p align="center" dir="auto">
- <img src="[https://tenor.com/es/view/software-software-development-gif-24712790](https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif)" width="100"></img>
+ <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="100"></img>
 </p>
 # Hi!✌️, I am WILLY SEGURA 
 ## Web developer 
-
 
 ### About Me:
 - 🌍  I’m based in Rep Dominicana
