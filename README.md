@@ -1,11 +1,11 @@
 
 # Hi!✌️, I am WILLY SEGURA 
 
+## Web developer 
+
 ##### <p align="center" dir="auto">
  <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="150"></img>
 </p>
-
-## Web developer 
 
 ### About Me:
 - 🌍  I’m based in Rep Dominicana
