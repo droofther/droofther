@@ -1,6 +1,11 @@
-## Hi!✌️, I`m WILLY SEGURA 
-# Web developer
+# Hi!✌️, I am WILLY SEGURA 
+## Web developer
 
+**About Me:
+- 🌍  I’m based in Rep Dominicana
+- ✉️  You can contact me at [Email](willysegura06@gmail.com)
+- 🔗 You can contact me at [Linkedin](www.linkedin.com/in/willy-segura-556255216)
+- 🌱 I’m currently learning a lot of stuff
 <!--
 **droofther/droofther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
