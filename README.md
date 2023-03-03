@@ -1,4 +1,5 @@
-## Hi I`m WILLY SEGURA ✌️
+## Hi!✌️, I`m WILLY SEGURA 
+# Web developer
 
 <!--
 **droofther/droofther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
