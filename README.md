@@ -1,7 +1,7 @@
 # Hi!✌️, I am WILLY SEGURA 
 ## Web developer 
 <p align="left" dir="auto">
-  <iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
+ <img src="[https://giphy.com/embed/4KzpjLvJjJknJ5Xuak](https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD)" width="150" height="150" frameBorder="0" class="giphy-embed" ></img>
 </p>
 
 ### About Me:
