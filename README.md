@@ -1,5 +1,8 @@
 # Hi!✌️, I am WILLY SEGURA 
-## Web developer
+## Web developer 
+<p align="left" dir="auto">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
+</p>
 
 ### About Me:
 - 🌍  I’m based in Rep Dominicana
@@ -20,7 +23,6 @@
 <a href="https://nodejs.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="max-width: 100%;"></a>
 <a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" style="max-width: 100%;"></a>
 <a href="https://firebase.google.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" style="max-width: 100%;"></a>
-<a href="https://www.heroku.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" style="max-width: 100%;"></a>
 </p>
 
 <!--
