@@ -3,7 +3,8 @@
 
 ##### <p align="center" dir="auto">
  <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="150"></img>
-</p>
+</p> ####
+
 ## Web developer 
 
 ### About Me:
