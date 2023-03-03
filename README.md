@@ -1,5 +1,5 @@
 
-# Hi!✌️, I am WILLY SEGURA 
+# Hi!✌️, I am Willy Segura 
 
 ## Web developer 
 
@@ -9,8 +9,8 @@
 
 ### About Me:
 - 🌍  I’m based in Rep Dominicana
-- ✉️  You can contact me at [Email](willysegura06@gmail.com)
-- 🔗<a href="https://www.linkedin.com/in/willy-segura-556255216" rel="nofollow">You can contact me at [Linkedin](www.linkedin.com/in/willy-segura-556255216)</a>
+- ✉️  You can contact me at [willysegura06@gmail.com](willysegura06@gmail.com)
+- 🔗You can contact me at <a href="https://www.linkedin.com/in/willy-segura-556255216" rel="nofollow">[Linkedin](www.linkedin.com/in/willy-segura-556255216)</a>
 - 🌱 I’m currently learning a lot of stuff
 
 # Skills:
