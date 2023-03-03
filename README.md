@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
- <img src="[https://giphy.com/embed/4KzpjLvJjJknJ5Xuak](https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD)" width="150" height="150" frameBorder="0" class="giphy-embed" ></img>
+ <img src="https://tenor.com/es/view/software-software-development-gif-24712790" width="75"></img>
 </p>
 # Hi!✌️, I am WILLY SEGURA 
 ## Web developer 
