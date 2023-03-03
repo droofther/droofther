@@ -1,8 +1,9 @@
-# Hi!✌️, I am WILLY SEGURA 
-## Web developer 
-<p align="left" dir="auto">
+<p align="center" dir="auto">
  <img src="[https://giphy.com/embed/4KzpjLvJjJknJ5Xuak](https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD)" width="150" height="150" frameBorder="0" class="giphy-embed" ></img>
 </p>
+# Hi!✌️, I am WILLY SEGURA 
+## Web developer 
+
 
 ### About Me:
 - 🌍  I’m based in Rep Dominicana
